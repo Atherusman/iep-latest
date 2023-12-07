@@ -1,0 +1,8 @@
+.bg-image{
+    background-image: url('./assets/images/curved14.jpg');
+    height: 500px;
+    background-size: cover;
+    /* object-fit: contain; */
+    /* aspect-ratio: 21/1;  */
+    background-repeat: no-repeat;
+}
